@@ -1,7 +1,7 @@
 Getting started with the SimpleMDM API and Python
 ----
 
-I wrote a [blog post]() about some baby steps in querying the [SimpleMDM API](https://simplemdm.com/docs/api/) using python and the python `requests` library.
+I wrote a [blog post](http://blog.quirke.org/mdm/2018/03/27/post.html) about some baby steps in querying the [SimpleMDM API](https://simplemdm.com/docs/api/) using python and the python `requests` library.
 
 This is my example code. It's not the prettiest, nor is it the cleverest, but it's worked for me.
 
